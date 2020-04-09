@@ -1,17 +1,42 @@
-# README
+# 2020_Data Analytic
 
 This is the repository mainly includes the codes of the data analytics courses in NTU, 2020 spring.
 
 <br>
 
-# HW_2_Code
+# Overview
 
-1. (15%) Simulate the averages of [2,3,4,5] dices for 1000 times. Draw four histograms for the averages of [2,3,4,5] dices. *Recall the “Central Limit Theorem” in the first lecture.
-2. To validate the Kruskal’s count in the first lecture, we play the game with one deck of cards, i.e., 52 cards, for 10000 times. Each time, start from the first 10 cards and the face cards (J/Q/K) are counted as 5 steps.
-   a. (10%) What is the probability that all the first 10 cards will end on the same card.
-   b. (10%) Vary the simulation settings: [52,104] cards are randomly shuffled and # of steps for face cards =[1,3,5,7,9], what are the 2×5=10 probabilities? What is your observation?
+
+
+
+
+<b4>
+
+# HW_2
+
+<img src='./picture_source/HW_2.PNG'>
 
 <br>
 
+# HW_3
 
+<img src='./picture_source/HW_3_1.PNG'>
+
+<img src='./picture_source/HW_3_2.PNG'>
+
+<img src='./picture_source/HW_3_3.PNG'>
+
+<br>
+
+# HW_4
+
+<img src='./picture_source/HW_4_1.PNG'>
+
+<img src='./picture_source/HW_4_2.PNG'>
+
+<img src='./picture_source/HW_4_3.PNG'>
+
+<img src='./picture_source/HW_4_4.PNG'>
+
+<br>
 
