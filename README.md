@@ -15,7 +15,7 @@ The course mainly consists of several different themes within, which includes:
   * multiple_regression
   * mountain_climbing
   * stepwise regression
-* **DA04 Dimension Reduction  ([HW_4](#HW_4))**
+* **DA04 Dimension Reduction  ([HW_4](#HW_4)) ([HW_5](#HW_5))**
   * PCA_decomposition
   * Factor Analysis
 
@@ -49,3 +49,8 @@ The course mainly consists of several different themes within, which includes:
 
 <br>
 
+# HW_5
+
+<img src='./picture_source/HW_5_1.PNG'>
+
+<img src='./picture_source/HW_5_2.PNG'>
