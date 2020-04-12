@@ -4,7 +4,7 @@ This is the repository mainly includes the codes of the **data analytics courses
 
 
 
-<img src='./picture_source/ntu_logo.JPG' align='center' width=300px>
+<img src='./picture_source/ntu_logo.png' align='center' width=300px>
 
 
 
