@@ -2,6 +2,12 @@
 
 This is the repository mainly includes the codes of the **data analytics courses in NTU, 2020 spring.**
 
+
+
+<img src='./picture_source/ntu_logo.JPG' align='center' width=300px>
+
+
+
 <br>
 
 # Overview
