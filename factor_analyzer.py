@@ -42,7 +42,7 @@ def factor_analyzer(X, factor_number, SummaryNeeded):
     # calculate communality vector
     communality_vector = A_transpose.dot(A)
 
-    if SummaryNeeded == True:
+    if SummaryNeeded:
         # print out summary
         print("========================== Output Summary ==========================\n【The loading matrix A】\n", A,
               "\n\n【Factor Matrix】\n", factor,
@@ -88,6 +88,10 @@ def factor_analyzer(X, factor_number, SummaryNeeded):
 
     return factor, A, A_transpose, Psi
 
+
 if __name__ == '__main__':
     AutoMPG = pd.read_csv('./data/AutoMPG.csv')
-    factor = factor_analyzer(AutoMPG, 2)
+    factor, A, A_transpose, Psi = factor_analyzer(AutoMPG, 2)
+    ATA = A_transpose.dot(A) + Psi
+    cov = np.cov(AutoMPG.to_numpy().T)
+    print(ATA - cov)
